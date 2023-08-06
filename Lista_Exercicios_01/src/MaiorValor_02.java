@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio02 {
+public class MaiorValor_02 {
     public static void main(String[] args) {
         // Exercicio 02
         System.out.println("2. Faça um programa que receba 2 valores e retorne o maior entre eles.");
@@ -17,18 +17,21 @@ public class Exercicio02 {
                 // Lê a entrada do usuário e converte para um valor inteiro.
                 valor1 = Integer.parseInt(sc.nextLine());
                 // Sair do loop
-                if (valor1 == -1) break;
+                if (valor1 == -1)
+                    break;
 
                 System.out.print("Digite o segundo valor (ou -1 para sair): ");
                 valor2 = Integer.parseInt(sc.nextLine());
-                if (valor2 == -1) break;
+                if (valor2 == -1)
+                    break;
 
             } catch (NumberFormatException e) {
                 System.out.println("Entrada inválida. Por favor, insira um número.");
                 continue;
             }
 
-            // Chama a função "maiorValor" para encontrar o maior entre os dois valores informados
+            // Chama a função "maiorValor" para encontrar o maior entre os dois valores
+            // informados
             int maior = maiorValor(valor1, valor2);
             System.out.println("O maior valor entre " + valor1 + " e " + valor2 + " é: " + maior + "\n");
         }

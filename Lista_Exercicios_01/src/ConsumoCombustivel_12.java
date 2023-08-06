@@ -1,9 +1,10 @@
 import java.util.Scanner;
 
-public class Exercicio12 {
+public class ConsumoCombustivel_12 {
     public static void main(String[] args) {
         // Exercicio 12
-        System.out.println("12. Os motoristas se preocupam com a quilometragem obtida por seus automóveis. Um motorista monitorou vários tanques cheios de gasolina registrando a quilometragem dirigida e a quantidade de combustível em litros utilizados para cada tanque cheio. Desenvolva um aplicativo Java que receba como entrada os quilômetros dirigidos e os litros de gasolina consumidos (ambos com inteiros) para cada tanque cheio. O programa deve calcular e exibir o consumo em quilômetros/litro para cada tanque cheio e imprimir a quilometragem combinada e a soma total de litros de combustível consumidos até esse ponto Todos os cálculos de média devem produzir resultados de ponto flutuante.");
+        System.out.println(
+                "12. Os motoristas se preocupam com a quilometragem obtida por seus automóveis. Um motorista monitorou vários tanques cheios de gasolina registrando a quilometragem dirigida e a quantidade de combustível em litros utilizados para cada tanque cheio. Desenvolva um aplicativo Java que receba como entrada os quilômetros dirigidos e os litros de gasolina consumidos (ambos com inteiros) para cada tanque cheio. O programa deve calcular e exibir o consumo em quilômetros/litro para cada tanque cheio e imprimir a quilometragem combinada e a soma total de litros de combustível consumidos até esse ponto Todos os cálculos de média devem produzir resultados de ponto flutuante.");
         Scanner sc = new Scanner(System.in);
 
         int totalQuilometros = 0;
@@ -20,7 +21,8 @@ public class Exercicio12 {
                 // Lê a entrada do usuário e converte para um valor inteiro.
                 litros = Integer.parseInt(sc.nextLine());
                 // Sair do loop
-                if (litros == -1) break;
+                if (litros == -1)
+                    break;
                 if (litros < 1) {
                     System.out.println(litros + " é uma entrada inválida");
                     System.exit(0);
@@ -28,7 +30,8 @@ public class Exercicio12 {
 
                 System.out.print("Digite a distância percorrida (ou -1 para sair): ");
                 quilometros = Integer.parseInt(sc.nextLine());
-                if (quilometros == -1) break;
+                if (quilometros == -1)
+                    break;
                 if (quilometros < 1) {
                     System.out.println(quilometros + " é uma entrada inválida");
                     System.exit(0);

@@ -1,11 +1,12 @@
 import java.util.Scanner;
 
-public class Exercicio10 {
+public class ContadorCaracteres_10 {
     private static final String VOGAIS = "aeiou";
 
     public static void main(String[] args) {
         // Exercício 10
-        System.out.println("10. Escreva uma classe que conte a quantidade de vogais, espaços em brancos e consoantes de uma cadeia de caracteres.");
+        System.out.println(
+                "10. Escreva uma classe que conte a quantidade de vogais, espaços em brancos e consoantes de uma cadeia de caracteres.");
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Digite uma frase: ");
