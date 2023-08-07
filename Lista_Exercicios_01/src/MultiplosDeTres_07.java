@@ -1,7 +1,8 @@
-public class Exercicio07 {
+public class MultiplosDeTres_07 {
     public static void main(String[] args) {
         // Exercício 07
-        System.out.println("7. Imprima o resultado da divisão por 2 de todos os múltiplos de 3, entre 1 e 100, usando os tipos de dados int e double.");
+        System.out.println(
+                "7. Imprima o resultado da divisão por 2 de todos os múltiplos de 3, entre 1 e 100, usando os tipos de dados int e double.");
 
         // Utilizando integer
         System.out.println("Utilizando integer:");
