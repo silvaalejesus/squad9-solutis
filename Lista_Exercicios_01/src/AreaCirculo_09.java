@@ -13,8 +13,8 @@ public class AreaCirculo_09 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Informe o raio");
-        double raio = scanner.nextFloat();
-        double area = pi*Math.pow(raio, 2);
+        double raio = scanner.nextDouble();
+        double area = pi * Math.pow(raio, 2);
 
         System.out.printf("%.0f", Math.ceil(area));
 

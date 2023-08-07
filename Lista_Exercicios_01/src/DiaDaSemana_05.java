@@ -3,7 +3,6 @@ e imprima na tela o dia da semana correspondente.
 Suponha que Segunda corresponde a 1 , Terça corresponde a 2, e assim por diante.
 Utilizando Array.*/
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class DiaDaSemana_05 {
@@ -17,7 +16,7 @@ public class DiaDaSemana_05 {
         int dia = scanner.nextInt();
 
         for (int i = 0; i < diasDaSemana.length; i++) {
-            if (dia == i+1){
+            if (dia == i + 1) {
                 System.out.println(diasDaSemana[i]);
             }
         }
