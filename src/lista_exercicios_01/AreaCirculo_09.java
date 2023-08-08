@@ -8,12 +8,12 @@ import java.util.Scanner;
 public class AreaCirculo_09 {
     public static void main(String[] args) {
 
-        final double pi = 3.14;
+        final double PI = 3.14;
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Informe o raio");
         double raio = scanner.nextDouble();
-        double area = pi*Math.pow(raio, 2);
+        double area = PI*Math.pow(raio, 2);
 
         System.out.printf("%.0f", Math.ceil(area));
 
