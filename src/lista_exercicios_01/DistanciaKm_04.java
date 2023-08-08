@@ -13,9 +13,9 @@ public class DistanciaKm_04 {
         System.out.println("Informe a distancia em milhas para converter para km");
 
         double distanciaMilhas = scanner.nextDouble();
-        final double km = distanciaMilhas * 1.609;
+        final double KM = distanciaMilhas * 1.609;
 
-        System.out.printf("%.0f km%n", km);
+        System.out.printf("%.0f km%n", KM);
 
         scanner.close();
     }
