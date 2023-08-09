@@ -13,7 +13,7 @@ public class Animal {
 		System.out.println("O animal faz um som.");
 	}
 
-	public void acao() {
+	public void movimentar() {
 		System.out.println("O animal se move");
 	}
 
