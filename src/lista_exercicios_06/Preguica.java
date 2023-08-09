@@ -11,7 +11,7 @@ public class Preguica extends Animal {
 	}
 
 	@Override
-	public void acao() {
+	public void movimentar() {
 		System.out.println("A preguiça " + this.getNome() + " vai subir em árvores");
 	}
 }

@@ -11,7 +11,7 @@ public class Cavalo extends Animal {
 	}
 	
 	@Override
-	public void acao() {
+	public void movimentar() {
 		System.out.println("O cavalo " + this.getNome() + " vai correr");
 	}
 }
