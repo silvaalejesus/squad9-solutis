@@ -1,5 +1,3 @@
-package lista_exercicios_05;
-
 public class Fornecedor extends Pessoa {
 	private double valorCreditado;
 	private double valorDivida;

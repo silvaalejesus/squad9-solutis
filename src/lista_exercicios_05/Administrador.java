@@ -1,5 +1,3 @@
-package lista_exercicios_05;
-
 public class Administrador extends Empregado{
     private double ajudaDeCusto;
     
