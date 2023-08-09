@@ -22,6 +22,8 @@ Todos os integrantes do squad 9 que contribuiram para o projeto.
 - **Alessandra Silva** - [silvaalejesus](https://github.com/silvaalejesus)
 - **Nilton Junior** - [niltonjrcalmon](https://github.com/niltonjrcalmon)
 - **João Duque** - [JaoDuque](https://github.com/JaoDuque)
+- **Victor Kayk** - [VictorKayk](https://github.com/VictorKayk)
+- **Vinícius Candeias** - [Candeias-Vinicius](https://github.com/Candeias-Vinicius)
 
 ## 🎁 Expressões de gratidão
 
