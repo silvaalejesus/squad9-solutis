@@ -1,4 +1,4 @@
-package Lista_3;
+import java.util.Scanner;
 
 public class IntersecaoRetangulo_30 {
     public static void main(String[] args) {

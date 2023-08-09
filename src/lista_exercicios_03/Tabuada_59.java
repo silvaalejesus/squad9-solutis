@@ -1,4 +1,3 @@
-package lista_exercicios_03;
 
 public class Tabuada_59 {
     public static void main(String[] args) {

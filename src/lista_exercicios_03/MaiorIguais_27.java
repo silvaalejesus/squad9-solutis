@@ -1,5 +1,3 @@
-package lista_exercicios_03;
-
 import java.util.Scanner;
 
 /*
@@ -33,5 +31,7 @@ public class MaiorIguais_27 {
             System.out.println("Os valores são iguais");
         }
         System.out.println("o maior número é " + maior);
+
+        scanner.close();
     }
 }
