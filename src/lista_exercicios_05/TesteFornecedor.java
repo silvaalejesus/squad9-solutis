@@ -1,5 +1,3 @@
-package lista_exercicios_05;
-
 public class TesteFornecedor {
 	public static void main(String[] args) {
 		Fornecedor fornecedor = new Fornecedor("Raissa", "(71)98323-1234", "Rua da Ladeira", 4210.0, 1300.0);

@@ -1,5 +1,3 @@
-package lista_exercicios_05;
-
 public class TesteAdministrador {
     public static void main(String[] args) {
         Administrador adm = new Administrador("Pedro Gentil", "(77) 981233551", "Rua Gentil", 54, 25600, 13, 362);

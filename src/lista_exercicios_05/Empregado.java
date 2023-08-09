@@ -1,5 +1,3 @@
-package lista_exercicios_05;
-
 public class Empregado extends Pessoa {
     private int codigoSetor;
     private int salarioBase;
