@@ -18,12 +18,13 @@ git clone https://github.com/silvaalejesus/squad9-solutis
 
 Todos os integrantes do squad 9 que contribuiram para o projeto.
 
-- **Ricardo Vinicius Amaral Clemente** - [ricardovac](https://github.com/ricardovac)
 - **Alessandra Silva** - [silvaalejesus](https://github.com/silvaalejesus)
-- **Nilton Junior** - [niltonjrcalmon](https://github.com/niltonjrcalmon)
 - **João Duque** - [JaoDuque](https://github.com/JaoDuque)
+- **Nilton Junior** - [niltonjrcalmon](https://github.com/niltonjrcalmon)
+- **Ricardo Vinicius Amaral Clemente** - [ricardovac](https://github.com/ricardovac)
 - **Victor Kayk** - [VictorKayk](https://github.com/VictorKayk)
 - **Vinícius Candeias** - [Candeias-Vinicius](https://github.com/Candeias-Vinicius)
+
 
 ## 🎁 Expressões de gratidão
 
