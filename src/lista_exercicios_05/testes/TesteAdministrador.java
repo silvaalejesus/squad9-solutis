@@ -1,4 +1,6 @@
-package lista_exercicios_05;
+package lista_exercicios_05.testes;
+
+import lista_exercicios_05.Administrador;
 
 public class TesteAdministrador {
     public static void main(String[] args) {

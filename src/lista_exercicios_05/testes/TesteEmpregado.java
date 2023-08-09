@@ -1,4 +1,6 @@
-package lista_exercicios_05;
+package lista_exercicios_05.testes;
+
+import lista_exercicios_05.Empregado;
 
 public class TesteEmpregado {
     public static void main(String[] args) {
