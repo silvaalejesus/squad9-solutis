@@ -1,3 +1,7 @@
+package lista_exercicios_05.testes;
+
+import lista_exercicios_05.Empregado;
+
 public class TesteEmpregado {
     public static void main(String[] args) {
         Empregado empregado = new Empregado("Paulo", "(77) 981562351", "Rua Paulo", 21, 15000, 17.2);

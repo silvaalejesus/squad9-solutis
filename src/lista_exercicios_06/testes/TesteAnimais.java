@@ -1,4 +1,6 @@
-package lista_exercicios_06;
+package lista_exercicios_06.testes;
+
+import lista_exercicios_06.*;
 
 public class TesteAnimais {
     public static void main(String[] args) {
