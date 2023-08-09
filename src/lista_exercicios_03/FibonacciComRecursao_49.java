@@ -1,4 +1,3 @@
-package lista_exercicios_03;
 //Apesar de ser um codigo mais limpo, a recursão aumenta o tempo de complexidade do codigo
 public class FibonacciComRecursao_49 {
     public static void main(String[] args) {

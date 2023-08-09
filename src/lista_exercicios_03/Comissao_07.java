@@ -2,7 +2,6 @@
  * Calcule e exiba a comissão de 10% de um garçom num restaurante a partir do valor da
  *  despesa de um cliente.*/
 
-package lista_exercicios_03;
 
 import utils.Input;
 

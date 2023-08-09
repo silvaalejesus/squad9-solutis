@@ -1,5 +1,3 @@
-package Slide_119;
-
 public class Xadrez {
     public static void main(String[] args) {
 

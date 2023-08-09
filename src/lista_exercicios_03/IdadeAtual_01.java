@@ -1,5 +1,3 @@
-package lista_exercicios_03;
-
 import java.time.LocalDate;
 import java.util.Scanner;
 

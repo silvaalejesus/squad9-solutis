@@ -1,5 +1,3 @@
-package Lista_3;
-
 import java.util.Scanner;
 
 public class Exercicio13 {
@@ -35,7 +33,7 @@ public class Exercicio13 {
             }
 
         }
-
+        scanner.close();
     }
 
 }

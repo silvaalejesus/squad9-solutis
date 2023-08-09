@@ -1,4 +1,3 @@
-package lista_exercicios_03;
 
 public class NumerosPares_33 {
 

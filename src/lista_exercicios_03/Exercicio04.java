@@ -1,5 +1,3 @@
-package Lista_3;
-
 import java.util.Scanner;
 
 //Determine e exiba a média aritmética de um aluno a partir de suas 4 notas.
